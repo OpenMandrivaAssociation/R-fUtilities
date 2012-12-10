@@ -48,3 +48,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/unitTests
+
+
+%changelog
+* Tue Feb 21 2012 Paulo Andrade <pcpa@mandriva.com.br> 2110.78-1
++ Revision: 778315
+- Import R-fUtilities
+- Import R-fUtilities
+
