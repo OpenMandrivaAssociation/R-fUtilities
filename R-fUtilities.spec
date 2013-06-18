@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2110.78
-Release:          1
+Release:          2
 Summary:          Function Utilities
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
