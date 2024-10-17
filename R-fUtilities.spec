@@ -7,7 +7,7 @@ Release:          2
 Summary:          Function Utilities
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/%{packname}/%{packname}_%{version}.tar.gz
 Requires:         R-methods R-MASS 
 Requires:         R-tcltk R-RUnit R-akima R-spatial R-foreign 
